@@ -1,0 +1,59 @@
+    
+body { background-color: #0099CC;
+       color: #000000;
+       position: relative;
+       background-image: linear-gradient(to bottom, #FFFFFF, #0099CC); 
+}
+
+h1 {
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+h2 span { 
+  margin-top: -7px;        /* Size of fixed header */
+  padding-bottom: 7px; 
+  display: block; 
+}
+
+h3 {
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+h4 {
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+h5 {
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
+
+nav a {
+        font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+        font-weight: bold;
+        color: #004DD1;
+}
+
+nav a:link { color: #004DD1; }
+nav a:visited { color:darkblue; }
+nav a:hover { color: #000000;}
+
+footer {color: #000000;
+        font-style: italic;
+        font-size: 80%;
+        font-weight: bold;
+        }
+
+footer a {color: #004DD1;
+          font-weight: bold;
+          }
+
+.navbar-default {background-color: #0099CC;
+                 background-image: radial-gradient(#FFFFFF, #0099CC); }
+
+.nobullits {list-style-type: none; }
+    
